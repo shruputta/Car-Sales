@@ -32,7 +32,8 @@ Problem Statement 2: Charts Requirement
 
 
 
-![Car Sales Overview](https://github.com/shruputta/Car-Sales/assets/21563334/a30fd489-9dee-4a1b-bf9e-6cd79921d897)
+![Car Sales Overview](https://github.com/shruputta/Car-Sales/assets/21563334/b29bc9aa-2115-402e-9f8e-57b46a93dd27)
+
 
 
 ![Car Sales Details](https://github.com/shruputta/Car-Sales/assets/21563334/3b316b26-c867-4222-91db-ebc328c85cd0)
